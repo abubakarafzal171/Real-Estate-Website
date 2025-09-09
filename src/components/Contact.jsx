@@ -45,7 +45,7 @@ const containerRef = useRef(null)
    scrollTrigger: {
         trigger: containerRef.current,
         start: "top 65%",
-        scrub: 1.5,
+       
       },
         stagger:{
     each: 0.2,
